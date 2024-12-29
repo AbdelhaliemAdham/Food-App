@@ -1,6 +1,9 @@
 # Food-App
 
-Food-App is a simple React application that allows users to browse meals, add them to a cart, and proceed to checkout. This app demonstrates the use of React context, custom hooks, and state management with `useReducer,useState,useEffect,useCallBack..`.
+Food-App is a simple React application that allows users to browse meals, add them to a cart, and proceed to checkout. This app demonstrates the use of React context, custom hooks, and state management with `useReducer,useState,useEffect,useCallBack`.
+
+
+![Food-App](https://github.com/user-attachments/assets/44814fbc-5b57-46d4-a6e9-9814e44f57d7)
 
 ## Features
 
