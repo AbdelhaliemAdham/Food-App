@@ -49,11 +49,3 @@ Food-App is a simple React application that allows users to browse meals, add th
 
 - **Meals**: `GET http://localhost:3000/meals`
 - **Orders**: `POST http://localhost:3000/orders`
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
